@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Simple-Calculator/static/css/main.e418bcb2.css",
+    "main.js": "/React-Simple-Calculator/static/js/main.e64adc53.js",
+    "index.html": "/React-Simple-Calculator/index.html",
+    "main.e418bcb2.css.map": "/React-Simple-Calculator/static/css/main.e418bcb2.css.map",
+    "main.e64adc53.js.map": "/React-Simple-Calculator/static/js/main.e64adc53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e418bcb2.css",
+    "static/js/main.e64adc53.js"
+  ]
+}
