@@ -70,7 +70,7 @@ function App() {
         <button onClick={resetInput}>reset input</button>
         <button onClick={resetResult}>reset result</button>
       </form>
-
+    <p>Made by Noor</p>
     </div>
   );
 }
